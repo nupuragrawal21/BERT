@@ -1,14 +1,14 @@
-#Text Classification on customer chat data
+Text Classification on customer chat data
 The objective of this exercise is to create a classifier based on customer chat data to classify the text into various categories.
 
-##Getting Started
+Getting Started
 Below mentioned are the instructions on how to get the code running on your local machine.
 
-###Prerequisites
+Prerequisites
 	•	Python 3.7
 	•	pip
 
-###Installation
+Installation
 In order to get this code running on your machine, please follow these instructions:
 	•	Create a folder, download and save the notebook in the folder.
 	•	Install all the dependencies in the requirements.txt:
